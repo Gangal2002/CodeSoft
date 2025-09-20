@@ -18,7 +18,7 @@ It highlights my **skills, projects, resume, and contact information** in a prof
 
 ## 📸 Screenshot  
 
-- **Live Demo:** [Open Portfolio](https://gangal2002.github.io/CodeAlpha/portfolio/index.html)  
+- **Live Demo:** [Open Portfolio]()  
 
 ### Portfolio Home View  
 
