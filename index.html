@@ -6,61 +6,49 @@
   <title>Internship Tasks</title>
   <style>
     body {
-      margin: 0;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: linear-gradient(to bottom, #2c3e50, #34495e);
-      color: white;
-      text-align: center;
+      font-family: 'Segoe UI', Tahoma, sans-serif;
+      background: #f5f5f5;
+      color: #333;
+      padding: 20px;
     }
-
     h1 {
-      margin: 30px 0;
-      font-size: 2.5rem;
+      text-align: center;
+      color: #00adb5;
+      margin-bottom: 40px;
     }
-
     .tasks {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
+      display: grid;
+      grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
       gap: 20px;
+    }
+    .task-card {
+      background: #fff;
       padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      text-align: center;
+      transition: transform 0.3s;
     }
-
-    .card {
-      background: #222;
-      border-radius: 12px;
-      padding: 20px;
-      width: 280px;
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
-      transition: transform 0.2s ease-in-out;
-    }
-
-    .card:hover {
-      transform: translateY(-5px);
-    }
-
-    .card h2 {
-      font-size: 1.3rem;
-      margin-bottom: 10px;
-    }
-
-    .card p {
-      font-size: 0.95rem;
-      margin-bottom: 15px;
-      color: #bbb;
-    }
-
-    .card a {
+    .task-card:hover { transform: translateY(-5px); }
+    .task-card h3 { color: #222; margin-bottom: 10px; }
+    .task-card p { font-size: 14px; margin-bottom: 15px; }
+    .btn {
       display: inline-block;
+      padding: 8px 15px;
+      background: #00adb5;
+      color: #fff;
+      border-radius: 5px;
       text-decoration: none;
-      color: cyan;
-      font-weight: bold;
+      transition: 0.3s;
     }
-
+    .btn:hover { background: #007c8a; }
     footer {
-      margin: 30px 0;
-      font-size: 0.9rem;
-      color: #aaa;
+      text-align: center;
+      padding: 15px;
+      margin-top: 40px;
+      background: #222;
+      color: #fff;
+      border-radius: 5px;
     }
   </style>
 </head>
