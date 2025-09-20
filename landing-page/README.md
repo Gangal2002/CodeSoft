@@ -21,7 +21,7 @@ The site includes a dedicated **Blog Section** where you can showcase project in
 
 ## 📸 Screenshot 
 
-- **Live Demo:** [Open Landing-page]()
+- **Live Demo:** [Open Landing page]()
 
 ### Portfolio Home View
 
