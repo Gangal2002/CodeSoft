@@ -21,7 +21,7 @@ The site includes a dedicated **Blog Section** where you can showcase project in
 
 ## 📸 Screenshot 
 
-- **Live Demo:** [Open Landing page]()
+- **Live Demo:** [Open Landing page](https://Gangal2002.github.io/CodeSoft/landing-page/index.html)
 
 ### Portfolio Home View
 
