@@ -21,7 +21,7 @@ It allows users to perform **addition, subtraction, multiplication, and division
 
 ## 📸 Screenshot  
 
-- **Live Demo:** [Open Calculator]()
+- **Live Demo:** [Open Calculator](https://Gangal2002.github.io/CodeSoft/calculator/index.html)
 
 ### Calculator Interface  
 
