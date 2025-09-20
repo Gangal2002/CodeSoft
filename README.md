@@ -8,15 +8,15 @@ This repository contains all the tasks I have completed during my 4-week interns
 
 1. **Personal Portfolio**  
    - Description: A responsive portfolio showcasing my skills, projects, resume, and contact information.  
-   - Live Demo: [Open Portfolio](https://your-github-username.github.io/CodeSoft/portfolio/index.html)
+   - Live Demo: [Open Portfolio](https://Gangal2002.github.io/CodeSoft/portfolio/index.html)
 
 2. **Landing Page**  
    - Description: A creative landing page demonstrating layout, sections, and columns using HTML & CSS.  
-   - Live Demo: [Open Landing Page](https://your-github-username.github.io/CodeSoft/landing-page/index.html)
+   - Live Demo: [Open Landing Page](https://Gangal2002.github.io/CodeSoft/landing-page/index.html)
      
 3. **Basic Calculator**  
    - Description: A modern calculator with addition, subtraction, multiplication, and division operations.  
-   - Live Demo: [Open Calculator](https://your-github-username.github.io/CodeSoft/calculator/index.html)
+   - Live Demo: [Open Calculator](https://Gangal2002.github.io/CodeSoft/calculator/index.html)
 
 ---
 
